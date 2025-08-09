@@ -21,7 +21,7 @@ A beautiful, responsive todo application that helps you organize and track your 
 
 ## 🚀 Live Demo
 
-[**Try it live here!**](https://yourusername.github.io/daily-task-manager)
+[**Try it live here!**](https://sai-kiran-99.github.io/TO-DO-app/)
 
 ## 📸 Screenshots
 
